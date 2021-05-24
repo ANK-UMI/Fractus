@@ -15,12 +15,12 @@ scene = new THREE.Scene()
 scene.background = new THREE.Color(0xffffff)
 
 camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000)
-camera.position.set(0, 50, 100)
+camera.position.set(100, 50, -100)
 
 light = new THREE.DirectionalLight(0xffffff)
 scene.add(light)
 let light2 = new THREE.DirectionalLight(0xffffff)
-light2.position.set(0, -50, 50)
+light2.position.set(0, -100, 100)
 scene.add(light2)
 
 //let grid = new THREE.GridHelper(1200, 60)
@@ -31,6 +31,7 @@ renderer.setSize(window.innerWidth, window.innerHeight)
 document.getElementById('contenedor').appendChild(renderer.domElement)
 
 controls = new OrbitControls(camera, renderer.domElement)
+
 }
 
 function render() {
@@ -56,13 +57,13 @@ function render() {
 }
 
 let loader = new STLLoader()
-loader.load('./models/boeing_tx1.STL', function (geometry) {
+loader.load('./models/shelling-julia/shelling-julia_190mm.stl', function (geometry) {
     mesh = new THREE.Mesh(
     geometry, 
-    new THREE.MeshLambertMaterial({color: 0xffff00})
+    new THREE.MeshLambertMaterial({color: 0xffffff})
 )
 
-mesh.scale.set(0.08, 0.08, 0.08)
+mesh.scale.set(0.8, 0.8, 0.8)
 mesh.position.set(0, 0, 0)
 
 scene.add(mesh)
