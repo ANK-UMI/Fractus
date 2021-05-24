@@ -63,8 +63,8 @@ loader.load('./models/shelling-julia/shelling-julia_190mm.stl', function (geomet
     new THREE.MeshLambertMaterial({color: 0xffffff})
 )
 
-mesh.scale.set(0.8, 0.8, 0.8)
-mesh.position.set(0, 0, 0)
+mesh.scale.set(1.2, 1.2, 1.2)
+mesh.position.set(0, 5, 0)
 
 scene.add(mesh)
 
