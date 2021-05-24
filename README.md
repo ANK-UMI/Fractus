@@ -1,8 +1,8 @@
 # Fractus
 ### About
 이화여자대학교 2021학년도 조형예술대학 메이데이 전시(5.25 - 5.30)를 위한 작품<br>
-참여 학생: 안규미<br>
-지도 교수: 현 박 교수(키네틱아트 2021-1)<br>
+참여학생: 안규미<br>
+담당교수 : 현박 (Hardware based artist / designer) 교수<br>
 
 ### Development Tools
 Arduino Uno /
