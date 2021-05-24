@@ -1,6 +1,6 @@
 # Fractus
 
-Arduino MEGA2560 /
+Arduino Uno /
 MPU6050 /
 three.js /
 node.js /
