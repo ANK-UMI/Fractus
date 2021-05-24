@@ -3,7 +3,7 @@
 * source: "https://sketchfab.com/3d-models/shelling-julia-zdmc-2008-623f2f0518024f358a9059838fd4dcf0"
 * license: "CC Attribution-NonCommercial-ShareAlike"
 
-## Julia Quaternion(gltf)
+## Julia Quaternion(.gltf)
 * title:	Julia Quaternion
 * source:	https://sketchfab.com/3d-models/julia-quaternion-a26363458dd74a6296286e1e4cb30a21
 * author:	David Gallardo (https://sketchfab.com/xjormaeko)
