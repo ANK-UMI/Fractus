@@ -12,7 +12,7 @@ node.js /
 express.js /
 socket.io /
 3D Print(stl) /
-webGL RayMarching Fractal /
+WebGL rayMarching fractal /
 ar.js 
 
 ### More Info
