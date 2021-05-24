@@ -31,3 +31,4 @@ parser.on('data', (datos)=>{
     io.emit('datos-giro', datos)
 }
 })
+ 
