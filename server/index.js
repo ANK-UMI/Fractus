@@ -21,8 +21,8 @@ const io = require('socket.io')(server)
 // comunication serial
 
 const parser = new serialcomm(
-    'COM4', 
-    {baudRate: 9600}
+    'COM3', 
+    {baudRate: 115200}
 ).pipe(new serialcomm.parsers.Readline({delimiter: '\n'}))
 
 parser.on('data', (datos)=>{
