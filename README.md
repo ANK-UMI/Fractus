@@ -6,8 +6,6 @@
 - 전시 날짜: 5.25 - 5.30<br>
 - More Info: http://artndesign.ewha.ac.kr/artewha/61/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYXJ0ZXdoYSUyRjI1JTJGMjczNTglMkZhcnRjbFZpZXcuZG8lM0Y%3D
 
-***
-
 ### Development Tools
 Arduino Uno /
 MPU6050 /
@@ -19,8 +17,6 @@ socket.io /
 WebGL raymarching fractal /
 ar.js / 
 ...
-
-***
 
 ### Credit
 - 참여학생: 안규미<br>
