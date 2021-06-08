@@ -4,7 +4,7 @@
 - 전시 형태: 오프라인<br>
 - 전시 장소: 이화여대 조형예술대학 C동 <br>
 - 전시 날짜: 5.25 - 5.30<br>
-- More Info: http://artndesign.ewha.ac.kr/artewha/61/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYXJ0ZXdoYSUyRjI1JTJGMjczNTglMkZhcnRjbFZpZXcuZG8lM0Y%3D
+- 전시 정보: http://artndesign.ewha.ac.kr/artewha/61/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYXJ0ZXdoYSUyRjI1JTJGMjczNTglMkZhcnRjbFZpZXcuZG8lM0Y%3D
 
 ### Development Tools
 - Arduino Uno
