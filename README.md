@@ -23,5 +23,4 @@
 - 담당교수: 박현우 교수님
 
 ![23](https://user-images.githubusercontent.com/54223902/219954983-83505f4e-dafc-46cf-bc7e-3819b2ce5bfd.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZeU67GNeMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=hZeU67GNeMc
